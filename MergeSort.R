@@ -1,3 +1,0 @@
-MergeSort <- EneLogEne(A) {
-  
-}
